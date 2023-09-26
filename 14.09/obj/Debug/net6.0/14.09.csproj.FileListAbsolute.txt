@@ -1,0 +1,15 @@
+D:\Райский\14.09\14.09\bin\Debug\net6.0\14.09.exe
+D:\Райский\14.09\14.09\bin\Debug\net6.0\14.09.deps.json
+D:\Райский\14.09\14.09\bin\Debug\net6.0\14.09.runtimeconfig.json
+D:\Райский\14.09\14.09\bin\Debug\net6.0\14.09.dll
+D:\Райский\14.09\14.09\bin\Debug\net6.0\14.09.pdb
+D:\Райский\14.09\14.09\obj\Debug\net6.0\14.09.csproj.AssemblyReference.cache
+D:\Райский\14.09\14.09\obj\Debug\net6.0\14.09.GeneratedMSBuildEditorConfig.editorconfig
+D:\Райский\14.09\14.09\obj\Debug\net6.0\14.09.AssemblyInfoInputs.cache
+D:\Райский\14.09\14.09\obj\Debug\net6.0\14.09.AssemblyInfo.cs
+D:\Райский\14.09\14.09\obj\Debug\net6.0\14.09.csproj.CoreCompileInputs.cache
+D:\Райский\14.09\14.09\obj\Debug\net6.0\14.09.dll
+D:\Райский\14.09\14.09\obj\Debug\net6.0\refint\14.09.dll
+D:\Райский\14.09\14.09\obj\Debug\net6.0\14.09.pdb
+D:\Райский\14.09\14.09\obj\Debug\net6.0\14.09.genruntimeconfig.cache
+D:\Райский\14.09\14.09\obj\Debug\net6.0\ref\14.09.dll

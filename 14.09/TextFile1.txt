@@ -1,0 +1,3 @@
+2 / 0 = Attempted to divide by zero.
+2 / 1 = 2
+2 / 1 = 2
