@@ -4,17 +4,27 @@ public class Logger
 {
     private string path;
     private string equation = String.Empty;
-
-    public Logger() => path = "D:\\Райский\\14.09\\14.09\\TextFile1.txt";
+    public Logger() => path = "TextFile1.txt";
 
     public Logger(string fileName) =>  path = fileName;
 
-    public void Operation(int a, int b)
+    public void Operation() //ввод чисел реализован прямо в методе, чтобы исключение отрабатывало сразу
     {
-        equation = $"{a} / {b} = ";
+        try 
+        { 
+            double num1 = Convert.ToInt64(Console.ReadLine());
+            double num2 = Convert.ToInt64(Console.ReadLine());
+            
+            if(num2==0)
+                throw new DivideByZeroException("Попытка деления на 0");
 
-        try { equation += $"{a / b}"; }
-        catch (Exception ex) { Except(ex); }
+            equation = $"{num1} / {num2} = ";
+            equation += $"{num1 / num2}";
+        }
+        catch (Exception ex)
+        {
+            Except(ex);
+        }
     }
     public override string ToString() => equation;
 
